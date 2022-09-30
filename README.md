@@ -1,8 +1,7 @@
 ### Hi there 👋 I am Aariz Ansari
 
-Full Stack Flutter developer
+Passionate Software Developer💻
 
-- 💬 Ask me about Flutter, Dart, Firebase.
 - 📫 How to reach me: 
 - Email- aaariz60@gmail.com
 - LinkedIn- https://www.linkedin.com/in/mohd-aariz-ansari-883862190
